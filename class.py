@@ -1,9 +1,9 @@
 # -*- coding:utf-8 -*-
-from class_model_12 import *   # class_model.py 에 있는 모든 코드의 기능을 다 쓰겠다.
+from class_model_12 import *   
 from random import shuffle
 
 import numpy as np
-import easydict # 저는 이 기능을 전역변수로서 사용하려고 합니다.
+import easydict # 전역변수
 import matplotlib.pyplot as plt
 import os
 
